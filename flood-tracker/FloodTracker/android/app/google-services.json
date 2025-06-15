@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85018602624",
+    "project_id": "flood-detect-4d305",
+    "storage_bucket": "flood-detect-4d305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85018602624:android:1d7bfe3b6a15aa2603ca65",
+        "android_client_info": {
+          "package_name": "com.example.deteksi_banjir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7GnnofqS78dIg4_exdVgR-48N3S6cIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
